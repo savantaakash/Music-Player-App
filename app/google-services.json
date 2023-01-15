@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "669514890505",
+    "project_id": "ecommerce-app-27583",
+    "storage_bucket": "ecommerce-app-27583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669514890505:android:5896b41c78f848ecc367d8",
+        "android_client_info": {
+          "package_name": "com.Aakash.imusicgana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669514890505-ai3bs2bgbte69pc64dbqdgu9mb3ldvq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqNbhOm3hM_8wF59hknKAyALwXqAd8qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669514890505-ai3bs2bgbte69pc64dbqdgu9mb3ldvq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669514890505:android:75996b22dff06ac8c367d8",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669514890505-ai3bs2bgbte69pc64dbqdgu9mb3ldvq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqNbhOm3hM_8wF59hknKAyALwXqAd8qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669514890505-ai3bs2bgbte69pc64dbqdgu9mb3ldvq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
