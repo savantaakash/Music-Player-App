@@ -27,6 +27,9 @@ Load an Music Player through Media Player Api
 [ImusicGaana](https://play.google.com/store/apps/details?id=com.Aakash.imusicgana)
 
 
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.Aakash.imusicgana)
+
+
 ## API Reference
 
 [Media Player API](https://developer.android.com/reference/android/media/MediaPlayer)
